@@ -7,3 +7,8 @@
 
 
 ![alt-text](https://octodex.github.com/images/yaktocat.png)
+
+
+```php
+$name = "Github:"
+```
